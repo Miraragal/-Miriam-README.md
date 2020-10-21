@@ -7,12 +7,10 @@
 [![Linkedin Badge](https://img.shields.io/badge/-miriamaragon-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/miriamarag0n/)](https://www.linkedin.com/in/miriamarag0n/)
 [![Gmail Badge](https://img.shields.io/badge/-miraragal@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:miraragal@gmail.com)](mailto:miraragal@gmail.com)
 [![GitHub Miriam](https://img.shields.io/github/followers/Miraragal?label=follow&style=social)](https://github.com/Miraragal)
-[![Visitors](https://komarev.com/ghpvc/?username=Miraragal)](https://github.com/Miraragal)
+[![Visitors](https://komarev.com/ghpvc/?username=MiraragalAlign=center)](https://github.com/Miraragal)
 
 
 ## 🔧 Languages & Tools
-<p align="center">
-<img
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React JS](https://img.shields.io/badge/-ReactJS-black?style=flat-square&logo=react)
@@ -26,7 +24,7 @@
 ![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VSCode](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code)
-/></p>
+
 
 
 
