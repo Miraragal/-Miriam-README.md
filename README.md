@@ -4,24 +4,22 @@
 
 <h3 align="left">A spanish-dumb 💃🏻 full stack web developer based in 🇺🇸</h3>
 
-<p align="left">
-  <a href=https://www.linkedin.com/in/miriamarag0n/ target="blank">
+<p align="left"> Find me on 👉 <a href=https://www.linkedin.com/in/miriamarag0n/ target="blank">
     <img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="miriamarag0n" height="20" width="20" margin="10"/>
-  </a>
-  <a href=mailto:miraragal@gmail.com target="blank">
+  </a>  <a href=mailto:miraragal@gmail.com target="blank">
   <img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg alt="miraragal" height="20" width="20" />
+  </a>  <a href=https://img.shields.io/github/followers/Miraragal?label=follow&style=social target="blank">
+  <img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg alt="miraragal" height="20" width="20" />
   </a>
 </p>
+
+[![GitHub Miriam](https://img.shields.io/github/followers/Miraragal?label=follow&style=social)](https://github.com/Miraragal)
+[![Visitors](https://komarev.com/ghpvc/?username=Miraragal)](https://github.com/Miraragal)
 
 - ✈️  I’m currently working on my side-project [Best-Flights-Deals](//github.com/Miraragal/Best-flight-deals)
 - 🌱 I’m currently learning <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 - 💬 Ask me about anything [here](mailto:miraragal@gmail.com)
 
-[![GitHub Miriam](https://img.shields.io/github/followers/Miraragal?label=follow&style=social)](https://github.com/Miraragal)
-[![Visitors](https://komarev.com/ghpvc/?username=Miraragal)](https://github.com/Miraragal)
-
-<br />
-<br />
 
 **Languages and Tools:**  
 
