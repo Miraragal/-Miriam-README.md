@@ -2,15 +2,25 @@
 <h1 align="center">Hello <img src="https://github.com/Miraragal/-Miriam-README.md/blob/main/wave.gif" width="30px">,I'm [Miriam!]! </h1>
 
 <p align="center">
-<a href=https://www.linkedin.com/in/miriamarag0n/ target="grey"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="miriamarag0n" height="20" width="20"/></a>
-<a href=mailto:miraragal@gmail.comn target="grey"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg alt="miraragal" height="20" width="20" /></a>
+  <a href=https://www.linkedin.com/in/miriamarag0n/ target="blank">
+    <img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="miriamarag0n" height="20" width="20"/>
+  </a>
+  <a href=mailto:miraragal@gmail.com target="blank">
+  <img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg alt="miraragal" height="20" width="20" />
+  </a>
 </p>
 <h3 align="center">A spanish-dumb 💃🏻 full stack web developer based in 🇺🇸</h3>
 
 <br />
 <br />
 
-🌱 I’m currently  ... 
+Hi, I'm Miriam Aragon, a passionate self-taught frontEnd web developer.
+
+- 🔭 I’m currently working on my project [Best-FLights-Deals](https:/)
+- 🌱 I’m currently learning GraphQL & Typescript
+- 👯 I’m looking to collaborate on [Github Readme Stats](https://)
+- 💬 Ask me about anything [here](mailto:miraragal@gmail.com)
+
 
 [![GitHub Miriam](https://img.shields.io/github/followers/Miraragal?label=follow&style=social)](https://github.com/Miraragal)
 [![Visitors](https://komarev.com/ghpvc/?username=Miraragal)](https://github.com/Miraragal)
@@ -43,7 +53,8 @@
 <br />
 
 **GitHub Stats:** 
-*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
+
+*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of github-readme-stats*
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Miraragal&theme=vue&hide_title=true&hide_border=true&show_icons=true&count_private=true&hide=stars,issues" > <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miraragal&layout=compact&theme=vue&hide_title=true&hide_border=true" >
