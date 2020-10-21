@@ -54,12 +54,13 @@
 
 **GitHub Stats:** 
 
-*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of github-readme-stats*
 
-<p align="left">
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Miraragal&theme=vue&hide_title=true&hide_border=true&show_icons=true&count_private=true&hide=stars,issues" > <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miraragal&layout=compact&theme=vue&hide_title=true&hide_border=true" >
 </p>
 
+
+*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of github-readme-stats*
 
 
 
