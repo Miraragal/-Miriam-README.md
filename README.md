@@ -4,15 +4,13 @@
 
  <h3 align="center">A spanish-dumb 💃🏻 full stack web developer based in 🇺🇸</h3>
  <p align="center">
-<a href=https://www.linkedin.com/in/miriamarag0n/ target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="miriamarag0n" height="20" width="20" /></a>
+<a href=https://www.linkedin.com/in/miriamarag0n/ target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="miriamarag0n" height="20" width="20" /></a> <br />
  <a href=mailto:miraragal@gmail.comn target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg alt="miraragal" height="20" width="20" /></a>
 </p>
 
-[![Gmail Badge](https://img.shields.io/badge/-miraragal@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:miraragal@gmail.com)](mailto:miraragal@gmail.com)
 
 [![GitHub Miriam](https://img.shields.io/github/followers/Miraragal?label=follow&style=social)](https://github.com/Miraragal)
 [![Visitors](https://komarev.com/ghpvc/?username=Miraragal)](https://github.com/Miraragal)
-
 
 ## 🔧 Languages & Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
