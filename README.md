@@ -9,5 +9,5 @@
 [![Linkedin Badge](https://img.shields.io/badge/-miriamaragon-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/miriamarag0n/)](https://www.linkedin.com/in/miriamarag0n/)
 [![Gmail Badge](https://img.shields.io/badge/-miraragal@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:miraragal@gmail.com)](mailto:miraragal@gmail.com)
 [![GitHub Miriam](https://img.shields.io/github/followers/Miraragal?label=follow&style=social)](https://github.com/Miraragal)
-[!Github Miriam](https://komarev.com/ghpvc/?username=Miraragal)](https://github.com/Miraragal)
+[![Github Miriam](https://komarev.com/ghpvc/?username=Miraragal)](https://github.com/Miraragal)
 
