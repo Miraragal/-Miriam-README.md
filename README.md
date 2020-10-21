@@ -14,11 +14,9 @@
 <br />
 <br />
 
-Hi, I'm Miriam Aragon, a passionate self-taught frontEnd web developer.
 
-- 🔭 I’m currently working on my project [Best-FLights-Deals](//github.com/Miraragal/Best-flight-deals)
+- ✈️  I’m currently working on my project [Best-Flights-Deals](//github.com/Miraragal/Best-flight-deals)
 - 🌱 I’m currently learning <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-- 👯 I’m looking to collaborate on [Github Readme Stats](https://)
 - 💬 Ask me about anything [here](mailto:miraragal@gmail.com)
 
 
@@ -29,19 +27,17 @@ Hi, I'm Miriam Aragon, a passionate self-taught frontEnd web developer.
 <br />
 
 **Languages and Tools:**  
+
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
   ![React JS](https://img.shields.io/badge/-ReactJS-black?style=flat-square&logo=react)
-  ![React Native](https://img.shields.io/badge/-ReactNative-black?style=flat-square&logo=react)
-  
+  ![React Native](https://img.shields.io/badge/-ReactNative-black?style=flat-square&logo=react) 
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
   ![SASS](https://img.shields.io/badge/-SASS-1572B6?style=flat-square&logo=sass)
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-  
   ![Nodejs](https://img.shields.io/badge/-NodeJS-black?style=flat-square&logo=Node.js)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
   ![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
-  
   ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
   ![VSCode](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code)
