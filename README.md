@@ -11,7 +11,7 @@
 
 
 ## 🔧 Languages & Tools
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascriptColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React JS](https://img.shields.io/badge/-ReactJS-black?style=flat-square&logo=react)
 ![React Native](https://img.shields.io/badge/-ReactNative-black?style=flat-square&logo=react)
