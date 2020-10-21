@@ -12,6 +12,8 @@
 [![GitHub Miriam](https://img.shields.io/github/followers/Miraragal?label=follow&style=social)](https://github.com/Miraragal)
 [![Visitors](https://komarev.com/ghpvc/?username=Miraragal)](https://github.com/Miraragal)
 
+
+
 ## 🔧 Languages & Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -27,9 +29,12 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VSCode](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code)
 
-## &#x1f4c8; GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=Miraragal&theme=vue&hide_title=true&hide_border=true&show_icons=true&count_private=true&hide=stars,issues" > <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miraragal&layout=compact&theme=vue&hide_title=true&hide_border=true" >
 
+
+## &#x1f4c8; GitHub Stats
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Miraragal&theme=vue&hide_title=true&hide_border=true&show_icons=true&count_private=true&hide=stars,issues" > <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miraragal&layout=compact&theme=vue&hide_title=true&hide_border=true" >
+</p>
 
 
 
