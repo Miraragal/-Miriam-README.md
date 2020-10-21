@@ -11,8 +11,11 @@
 
 
 ## 🔧 Languages & Tools
-![](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascriptoColor=white&color=2bbc8a)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascriptColor=white&color=2bbc8a)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascriptColor=white&color=2bbc8a)
+![React JS](https://img.shields.io/badge/-ReactJS-black?style=flat-square&logo=reactColor=white&color=2bbc8a)
+![React Native](https://img.shields.io/badge/-ReactNative-black?style=flat-square&logo=reactColor=white&color=2bbc8a)
+
 ![](https://img.shields.io/badge/-ReactJS-black?style=flat-square&logo=reactColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-ReactNative-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
