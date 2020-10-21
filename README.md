@@ -8,11 +8,12 @@
 <a href=mailto:miraragal@gmail.comn target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg alt="miraragal" height="20" width="20" /></a>
 </p>
 
+🌱 I’m currently  ... 
 
 [![GitHub Miriam](https://img.shields.io/github/followers/Miraragal?label=follow&style=social)](https://github.com/Miraragal)
 [![Visitors](https://komarev.com/ghpvc/?username=Miraragal)](https://github.com/Miraragal)
 
-
+<br />
 
 ## 🔧 Languages & Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -29,7 +30,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VSCode](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code)
 
-
+<br />
 
 ## &#x1f4c8; GitHub Stats
 <p align="center">
