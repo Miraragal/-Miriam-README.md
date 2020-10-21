@@ -5,11 +5,14 @@
 
 <h3 align="center">A spanish-dumb 💃🏻 full stack web developer based in 🇺🇸</h3>
 
-<h4 align="center"> Find me on 👉 <a href=https://www.linkedin.com/in/miriamarag0n/ target="blank">
+<h4 align="center"> Find me on 👉 
+  <a href=https://www.linkedin.com/in/miriamarag0n/ target="blank">
     <img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="miriamarag0n" height="30" width="30"/>
-  </a>  <a href=mailto:miraragal@gmail.com target="blank">
+  </a>        
+  <a href=mailto:miraragal@gmail.com target="blank">
   <img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg alt="miraragal" height="30" width="30" />
-  </a>  <a href=https://img.shields.io/github/followers/Miraragal?label=follow&style=social target="blank">
+  </a>  
+  <a href=https://img.shields.io/github/followers/Miraragal?label=follow&style=social target="blank">
   <img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg alt="miraragal" height="30" width="30" />
   </a> 👈 
 </h4>
@@ -53,7 +56,7 @@
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of github-readme-stats*
 
-<p align="center">
+<p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=Miraragal&theme=vue&hide_title=true&hide_border=true&show_icons=true&count_private=true&hide=stars,issues" > <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miraragal&layout=compact&theme=vue&hide_title=true&hide_border=true" >
 </p>
 
