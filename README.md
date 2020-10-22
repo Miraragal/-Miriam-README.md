@@ -1,7 +1,6 @@
-
-<h4 align="right"> Find me on 👉 &nbsp; 
+<h4 align="right"> 👉 &nbsp; 
      <a href=https://www.linkedin.com/in/miriamarag0n/ target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg          alt="miriamarag0n" height="30" width="30"/>
-  </a>  &nbsp;&nbsp; &nbsp;     
+  </a>  &nbsp;&nbsp; &nbsp;&nbsp;     
   <a href=mailto:miraragal@gmail.com target="blank">
   <img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg alt="miraragal" height="30" width="30" />
   </a>  &nbsp; &nbsp;&nbsp; &nbsp; 
@@ -10,9 +9,8 @@
   </a> &nbsp; 👈 
 </h4>
 
----
-## Hello folks! <img src="https://github.com/Miraragal/-Miriam-README.md/blob/main/wave.gif" width="27px">,
-I'm Miriam Aragon, an open-source developer based in Colorado Springs, US. I mostly work on Javascript based technologies both on backend & frontend.  
+## Hello folks! <img src="https://github.com/Miraragal/-Miriam-README.md/blob/main/wave.gif" width="27px">
+I'm Miriam Aragon, a web developer based in Colorado Springs, US. I mostly work on Javascript based technologies both on backend & frontend.  
 
 💬 Ask me about anything [here](https://github.com/Miraragal/Miraragal/issues)
 
