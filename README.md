@@ -6,7 +6,7 @@
 <a href=mailto:miraragal@gmail.com target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg alt="miraragal"     height="30" width="30" />
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp; 
-<a href=https://img.shields.io/github/followers/Miraragal?label=follow&style=social target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg alt="miraragal" height="30" width="30" />
+<a href=https://github.com/Miraragal?tab=repositories target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg alt="miraragal" height="30" width="30" />
 </a>
 &nbsp;&nbsp;👈 
 </h4>
@@ -47,11 +47,11 @@ I mostly work on Javascript based technologies both on backend & frontend.
 
 [![Visitors](https://komarev.com/ghpvc/?username=Miraragal)](https://github.com/Miraragal)
 
+<!-- 🌱 Coming soon... -->
 
-🌱 Coming soon... 
+<!-- <img src="https://raw.githubusercontent.com/adarshaacharya/adarshaacharya/master/assets/developer.gif" width="30px"> *Checkout my [website](http://) for more details*  -->
 
-<img src="https://raw.githubusercontent.com/adarshaacharya/adarshaacharya/master/assets/developer.gif" width="30px"> *Checkout my [website](http://) for more details*
-
+ 
 
 
 
