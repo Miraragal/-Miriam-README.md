@@ -1,5 +1,5 @@
 
-<h4 align="right"> Find me on 👉 
+<h4 align="right"> Find me on 👉 &nbsp; 
      <a href=https://www.linkedin.com/in/miriamarag0n/ target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg          alt="miriamarag0n" height="30" width="30"/>
   </a>  &nbsp;&nbsp; &nbsp;     
   <a href=mailto:miraragal@gmail.com target="blank">
@@ -7,7 +7,7 @@
   </a>  &nbsp; &nbsp;&nbsp; &nbsp; 
   <a href=https://img.shields.io/github/followers/Miraragal?label=follow&style=social target="blank">
   <img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg alt="miraragal" height="30" width="30" />
-  </a> 👈 
+  </a> &nbsp; 👈 
 </h4>
 
 ---
