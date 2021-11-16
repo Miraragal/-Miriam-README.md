@@ -15,7 +15,7 @@
 ## Hello folks! <img src="https://github.com/Miraragal/-Miriam-README.md/blob/main/wave.gif" width="27px">
 <img align="right" src="https://github.com/Miraragal/MiriamAragon/blob/main/octocat-anime.gif" width="100"/>
 
-I'm Miriam Aragon, a Web Developer based in Colorado Springs, US.
+I'm Miriam Aragon, a Frontend Engineer based in Centennial, US.
 I mostly work on Javascript based technologies both on backend & frontend.  
 
 💬 Ask me about anything [here](https://github.com/Miraragal/Miraragal/issues)
